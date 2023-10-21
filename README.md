@@ -1,6 +1,6 @@
 ![MasterHead](https://tinyurl.com/yp5eqvz4)
 
-<h1 align="center" style="font-family: 'cursive'; font-size: 36px; color: #ff69b4;">👧🏻 Hi, I'm Tharushi Ranathunga</h1>
+<h1 align="center" style="font-family: 'cursive'; font-size: 36px; color: #ff69b4;"> 👋🏻Hi, I'm Tharushi Ranathunga 👧🏻</h1>
 <h3 align="center" style="font-family: 'cursive'; font-size: 24px; color: #ff69b4;">👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h3>
 
 <p align="center">
