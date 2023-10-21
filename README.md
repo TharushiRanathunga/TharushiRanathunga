@@ -23,6 +23,15 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharushiranathunga&show_icons=true&locale=en&layout=compact" alt="tharushiranathunga" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharushiranathunga&show_icons=true&locale=en" alt="tharushiranathunga" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharushiranathunga&" alt="tharushiranathunga" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharushiranathunga&show_icons=true&locale=en&layout=compact" alt="tharushiranathunga" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tharushiranathunga&show_icons=true&locale=en" alt="tharushiranathunga" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharushiranathunga&" alt="tharushiranathunga" />
+</p>
+<h3 align="left">Achievements:</h3>
+<p align="left"> 
+- 🏆 Winner of [Specify Competition Name] 2022
+- 🥇 First Place in [Specify Coding Challenge] 2021
+- 📚 Published [Specify Number] research papers in renowned journals
+</p>
