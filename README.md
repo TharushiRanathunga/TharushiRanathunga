@@ -1,112 +1,96 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    body {
-      background-color: #f0f0f0;
-      font-family: 'Georgia', sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    .header {
-      background-color: #ff69b4;
-      padding: 20px 0;
-      text-align: center;
-    }
-    .header h1, .header h3 {
-      color: #ffffff;
-      font-size: 24px;
-    }
-    .profile-image {
-      float: right;
-      margin-right: 20px;
-      border: 10px solid #ff69b4;
-      border-radius: 10px;
-    }
-    .quote {
-      font-style: italic;
-      font-size: 18px;
-      color: #ff69b4;
-      text-align: center;
-      margin-top: 10px;
-    }
-    .contact-info {
-      text-align: center;
-      font-size: 18px;
-      color: #ff69b4;
-    }
-    .social-links {
-      text-align: center;
-    }
-    .social-links a {
-      text-decoration: none;
-      margin: 0 10px;
-    }
-    .languages-tools {
-      text-align: center;
-      font-size: 18px;
-      color: #ff69b4;
-    }
-    .languages-tools img {
-      margin: 0 10px;
-      width: 40px;
-    }
-    .stats {
-      text-align: center;
-    }
-  </style>
+<style>
+  .tab {
+    overflow: hidden;
+    background-color: #f2f2f2;
+  }
+
+  .tab button {
+    background-color: #d3d3d3;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+  }
+
+  .tab button:hover {
+    background-color: #ddd;
+  }
+
+  .tab button.active {
+    background-color: #ff69b4;
+    color: white;
+  }
+
+  .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border-top: none;
+  }
+
+  .profile {
+    font-family: 'cursive';
+    text-align: center;
+    color: #ff69b4;
+  }
+
+  .image {
+    float: right;
+  }
+</style>
 </head>
 <body>
-  <div class="header">
+
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'Profile')">Profile</button>
+  <button class="tablinks" onclick="openTab(event, 'Stats')">Stats</button>
+</div>
+
+<div id="Profile" class="tabcontent">
+  <div class="profile">
+    <img src="https://tinyurl.com/yp5eqvz4">
     <h1>👧🏻 Hi, I'm Tharushi Ranathunga</h1>
     <h3>👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h3>
+    <p>"Coding is my canvas, and I paint my dreams with code."</p>
+    <h4>How to reach me: <a href="mailto:work.tharushiranathunga@gmail.com" style="text-decoration: none; color: #ff69b4;">work.tharushiranathunga@gmail.com</a></h4>
   </div>
-  <div class="profile-image">
-    <img alt="Coding" width="400" src="https://i.scdn.co/image/ab67706c0000da84edcece3a396ce1f51fe40385">
+  <div class="image">
+    <img align="right" alt="Coding" width="400" src="https://i.scdn.co/image/ab67706c0000da84edcece3a396ce1f51fe40385">
   </div>
-  <div class="quote">"Coding is my canvas, and I paint my dreams with code."</div>
-  <div class="contact-info">How to reach me: <a href="mailto:work.tharushiranathunga@gmail.com" style="text-decoration: none; color: #ff69b4;">work.tharushiranathunga@gmail.com</a></div>
-  <div class="social-links">
-    <a href="https://linkedin.com/in/tharushi ranathunga" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharushi ranathunga" height="30" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/tharushi ranathunga" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tharushi ranathunga" height="30" width="40" />
-    </a>
-    <a href="https://www.codechef.com/users/tharushicodes" target="blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tharushicodes" height="30" width="40" />
-    </a>
-  </div>
-  <div class="languages-tools">
+</div>
+
+<div id="Stats" class="tabcontent">
+  <h4>Languages and Tools:</h4>
+  <p>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
-    </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" />
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" />
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
-    </a>
-  </div>
-  <div class="stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharushiranathunga&show_icons=true&locale=en&layout=compact" alt="tharushiranathunga" />
-    <img src="https://github-readme-stats.vercel.app/api?username=tharushiranathunga&show_icons=true&locale=en" alt="tharushiranathunga" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushiranathunga&" alt="tharushiranathunga" />
-  </div>
+    <!-- Add more icons here -->
+  </p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharushiranathunga&show_icons=true&locale=en&layout=compact" alt="tharushiranathunga" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=tharushiranathunga&show_icons=true&locale=en" alt="tharushiranathunga" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushiranathunga&" alt="tharushiranathunga" /></p>
+</div>
+
+<script>
+function openTab(evt, tabName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+
 </body>
 </html>
