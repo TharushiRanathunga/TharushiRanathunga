@@ -1,96 +1,30 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .tab {
-    overflow: hidden;
-    background-color: #f2f2f2;
-  }
+![MasterHead](https://tinyurl.com/yp5eqvz4)
 
-  .tab button {
-    background-color: #d3d3d3;
-    float: left;
-    border: none;
-    outline: none;
-    cursor: pointer;
-    padding: 14px 16px;
-    transition: 0.3s;
-  }
+<h1 align="center" style="font-family: 'cursive'; font-size: 36px; color: #ff69b4;">👧🏻 Hi, I'm Tharushi Ranathunga</h1>
+<h3 align="center" style="font-family: 'cursive'; font-size: 24px; color: #ff69b4;">👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h3>
 
-  .tab button:hover {
-    background-color: #ddd;
-  }
+<p align="center">
+    <img align="center" alt="Coding" src="https://i.scdn.co/image/ab67706c0000da84edcece3a396ce1f51fe40385" style="border: 4px solid #ff69b4; border-radius: 50%;">
+</p>
 
-  .tab button.active {
-    background-color: #ff69b4;
-    color: white;
-  }
+<p align="center" style="font-family: 'cursive'; font-size: 20px; color: #ff69b4;">"Coding is my canvas, and I paint my dreams with code."</p>
+<h4 align="center" style="font-family: 'cursive'; font-size: 18px; color: #ff69b4;">How to reach me: <a href="mailto:work.tharushiranathunga@gmail.com" style="text-decoration: none; color: #ff69b4;">work.tharushiranathunga@gmail.com</a></h4>
 
-  .tabcontent {
-    display: none;
-    padding: 6px 12px;
-    border-top: none;
-  }
+<h4 align="center" style="font-family: 'cursive'; font-size: 18px; color: #ff69b4;">Connect with me:</h4>
+<p align="center">
+    <a href="https://linkedin.com/in/tharushi ranathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharushi ranathunga" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/tharushi ranathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tharushi ranathunga" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/tharushicodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tharushicodes" height="30" width="40" /></a>
+</p>
 
-  .profile {
-    font-family: 'cursive';
-    text-align: center;
-    color: #ff69b4;
-  }
-
-  .image {
-    float: right;
-  }
-</style>
-</head>
-<body>
-
-<div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'Profile')">Profile</button>
-  <button class="tablinks" onclick="openTab(event, 'Stats')">Stats</button>
-</div>
-
-<div id="Profile" class="tabcontent">
-  <div class="profile">
-    <img src="https://tinyurl.com/yp5eqvz4">
-    <h1>👧🏻 Hi, I'm Tharushi Ranathunga</h1>
-    <h3>👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h3>
-    <p>"Coding is my canvas, and I paint my dreams with code."</p>
-    <h4>How to reach me: <a href="mailto:work.tharushiranathunga@gmail.com" style="text-decoration: none; color: #ff69b4;">work.tharushiranathunga@gmail.com</a></h4>
-  </div>
-  <div class="image">
-    <img align="right" alt="Coding" width="400" src="https://i.scdn.co/image/ab67706c0000da84edcece3a396ce1f51fe40385">
-  </div>
-</div>
-
-<div id="Stats" class="tabcontent">
-  <h4>Languages and Tools:</h4>
-  <p>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <!-- Add more icons here -->
-  </p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharushiranathunga&show_icons=true&locale=en&layout=compact" alt="tharushiranathunga" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=tharushiranathunga&show_icons=true&locale=en" alt="tharushiranathunga" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushiranathunga&" alt="tharushiranathunga" /></p>
-</div>
-
-<script>
-function openTab(evt, tabName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(tabName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
-</script>
-
-</body>
-</html>
+<h4 align="center" style="font-family: 'cursive'; font-size: 18px; color: #ff69b4;">Languages and Tools:</h4>
+<p align="center"> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
