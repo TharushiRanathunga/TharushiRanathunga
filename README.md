@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tharushi Ranathunga 👧🏻</h1>
 <h3 align="center">👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg">
+<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushiranathunga&label=Profile%20views&color=0e75b6&style=flat" alt="tharushiranathunga" /> </p>
