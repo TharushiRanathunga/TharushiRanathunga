@@ -3,7 +3,7 @@
 <h1 align="center" style="font-family: 'cursive'; font-size: 36px; color: #ff69b4;">👧🏻 Hi, I'm Tharushi Ranathunga</h1>
 <h3 align="center" style="font-family: 'cursive'; font-size: 24px; color: #ff69b4;">👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h3>
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1NBDOujs9IGMAgcqZpprn9gBH1ZVHbhWQ/view?usp=drive_link">
+  ##<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1NBDOujs9IGMAgcqZpprn9gBH1ZVHbhWQ/view?usp=drive_link">
 </p>
 <p align="center" style="font-family: 'cursive'; font-size: 20px; color: #ff69b4;">"Coding is my canvas, and I paint my dreams with code."</p>
 <h4 align="center" style="font-family: 'cursive'; font-size: 18px; color: #ff69b4;">How to reach me: <a href="mailto:work.tharushiranathunga@gmail.com" style="text-decoration: none; color: #ff69b4;">work.tharushiranathunga@gmail.com</a></h4>
