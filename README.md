@@ -1,8 +1,10 @@
 ![MasterHead](https://tinyurl.com/yp5eqvz4)
-
 <h1 align="center" style="font-family: 'cursive'; font-size: 36px; color: #ff69b4;">👧🏻 Hi, I'm Tharushi Ranathunga</h1>
 <h3 align="center" style="font-family: 'cursive'; font-size: 24px; color: #ff69b4;">👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h3>
-<p align="center"></p>
+<p align="center">
+  <img align="right" alt="Coding" width="400" src="https://i.scdn.co/image/ab67706c0000da84edcece3a396ce1f51fe40385">
+</p>
+
 <p align="center" style="font-family: 'cursive'; font-size: 20px; color: #ff69b4;">"Coding is my canvas, and I paint my dreams with code."</p>
 <h4 align="center" style="font-family: 'cursive'; font-size: 18px; color: #ff69b4;">How to reach me: <a href="mailto:work.tharushiranathunga@gmail.com" style="text-decoration: none; color: #ff69b4;">work.tharushiranathunga@gmail.com</a></h4>
 <h4 align="center" style="font-family: 'cursive'; font-size: 18px; color: #ff69b4;">Connect with me:</h4>
@@ -25,3 +27,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharushiranathunga&show_icons=true&locale=en&layout=compact" alt="tharushiranathunga" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tharushiranathunga&show_icons=true&locale=en" alt="tharushiranathunga" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushiranathunga&" alt="tharushiranathunga" /></p>
+
+
+
+
