@@ -1,7 +1,7 @@
 [![MasterHead](https://tinyurl.com/yp5eqvz4)
 <h1 align="center">Hi 👋, I'm Tharushi Ranathunga</h1>
 <h3 align="center">👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h3>
-<img align="right" alt="Coding" width="400" src="https://tinyurl.com/ynr9fy2e.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/09e4930a59167dcea9c9f2d64a1a73a31e89cdde6f1de97ed44d6a726a4ea388/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e6769663f7261773d74727565.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushiranathunga&label=Profile%20views&color=0e75b6&style=flat" alt="tharushiranathunga" /> </p>
 
