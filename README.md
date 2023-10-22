@@ -64,10 +64,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TharushiRanathunga/TharushiRanathunga/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
@@ -75,3 +71,4 @@
 </div>
 
 ###
+
