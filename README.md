@@ -1,4 +1,6 @@
-<h1 align="left">Hi 👋! My name is Tharushi Ranathunga<br><br>👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h1>
+<br clear="both">
+
+<h2 align="left">Hi 👋! My name is Tharushi Ranathunga<br><br>👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h2>
 
 ###
 
@@ -8,7 +10,7 @@
 
 ###
 
-<h3 align="center">"Coding is my canvas, and I paint my dreams <br>with code."</h3>
+<h4 align="center">"Coding is my canvas, and I paint my dreams <br>with code."</h4>
 
 ###
 
@@ -44,7 +46,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
@@ -61,6 +63,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/TharushiRanathunga/TharushiRanathunga/output/snake.svg" alt="Snake animation" />
 
