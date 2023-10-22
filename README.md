@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="left" height="233" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"  />
+<img align="left" height="200" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"  />
 
 ###
 
@@ -67,8 +67,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/TharushiRanathunga/TharushiRanathunga/output/snake.svg" alt="Snake animation" />
 
