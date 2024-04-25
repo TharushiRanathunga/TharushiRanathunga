@@ -1,7 +1,7 @@
 <a href="https://lh3.googleusercontent.com/drive-viewer/AKGpihZL6AVfY2yIFHT35RZq3ffeyENQD8jDpVHalHu0MXXGhqZGmQdpZVd8PoWOkafLernb4JAU7SBWfC1Hz4WzO3b3MjO7iaAh_Xo=s1600-rw-v1?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZL6AVfY2yIFHT35RZq3ffeyENQD8jDpVHalHu0MXXGhqZGmQdpZVd8PoWOkafLernb4JAU7SBWfC1Hz4WzO3b3MjO7iaAh_Xo=s1600-rw-v1" /> </a>
 
 <br clear="both">
-<h2 align="center">👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h2>
+<h2 align="center">👨‍🎓 Undergraduate | ✍️ Passionate Coder | 🌟 Learning & Growing</h2>
 
 ###
 
