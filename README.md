@@ -2,7 +2,7 @@
 
 
 <br clear="both">
-<h2 align="left">👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h2>
+<h2 align="center">👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h2>
 
 ###
 
