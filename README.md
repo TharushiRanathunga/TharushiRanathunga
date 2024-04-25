@@ -1,4 +1,4 @@
-<img align="center" height="220" src="https://drive.google.com/uc?export=view&id=1yftKPqvFaD3YUx59JukuWgPNkbaXqkCj"/>
+<a href="https://lh3.googleusercontent.com/drive-viewer/AKGpihbJayoUXDpSQd0ucY3nKV7GtnZdf6939rOCGZemv7vsxZlsyb2Mxr3PYt5byGhfpXNwYyu7KtzTHX_Wf9MzCQtRYHFriPVUVaM=s1600-rw-v1?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbJayoUXDpSQd0ucY3nKV7GtnZdf6939rOCGZemv7vsxZlsyb2Mxr3PYt5byGhfpXNwYyu7KtzTHX_Wf9MzCQtRYHFriPVUVaM=s1600-rw-v1" /> </a>
 
 
 <br clear="both">
