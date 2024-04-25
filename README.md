@@ -1,5 +1,5 @@
 <br clear="both">
-<img align="left" height="220" src="https://octodex.github.com/images/yogitocat.png"  />
+<img align="left" height="220" src="https://octodex.github.com/images/yogitocat.png](https://cameronmcefee.com/img/work/the-octocat/original.jpg"  />
 <h2 align="left">Hi 👋! My name is Tharushi Ranathunga<br><br>👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h2>
 
 ###
