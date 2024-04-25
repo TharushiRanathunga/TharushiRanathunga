@@ -1,4 +1,4 @@
-<img align="left" height="220" src="https://drive.google.com/file/d/1trZQwXBVyVUXOUfHOElXC6-RdY9wXjsA/view?usp=sharing"  />
+<img align="left" height="220" src="https://drive.google.com/drive/my-drive/Copy%20of%20github-header-image.png"  />
 
 <br clear="both">
 <h2 align="left">Hi 👋! My name is Tharushi Ranathunga<br><br>👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h2>
