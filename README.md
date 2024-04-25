@@ -1,5 +1,5 @@
 <br clear="both">
-
+<img align="left" height="220" src="[https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif](https://e7.pngegg.com/pngimages/933/478/png-clipart-github-repository-source-code-version-control-github-mammal-cat-like-mammal.png)"  />
 <h2 align="left">Hi 👋! My name is Tharushi Ranathunga<br><br>👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h2>
 
 ###
@@ -7,6 +7,7 @@
 <br clear="both">
 
 <img align="left" height="220" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"  />
+
 
 ###
 
