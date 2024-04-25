@@ -1,4 +1,5 @@
-<img align="cener" height="220" src="https://drive.google.com/file/d/1yftKPqvFaD3YUx59JukuWgPNkbaXqkCj/view"  />
+![Header](./your-header-image-name.png)
+
 <br clear="both">
 <h2 align="left">Hi 👋! My name is Tharushi Ranathunga<br><br>👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h2>
 
