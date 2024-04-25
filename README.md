@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://cameronmcefee.com/img/work/the-octocat/original.jpg"  />
+<img align="right" height="220" src="https://cameronmcefee.com/img/work/the-octocat/original.jpg"  />
 <br clear="both">
 <h2 align="left">Hi 👋! My name is Tharushi Ranathunga<br><br>👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h2>
 
