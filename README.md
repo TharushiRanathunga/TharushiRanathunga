@@ -2,7 +2,7 @@
 
 
 <br clear="both">
-<h2 align="left">Hi 👋! My name is Tharushi Ranathunga<br><br>👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h2>
+<h2 align="left">👨‍🎓 Student | ✍️ Passionate Coder | 🌟 Learning & Growing</h2>
 
 ###
 
