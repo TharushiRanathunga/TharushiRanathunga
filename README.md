@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="center">"Coding is my canvas, and I paint my dreams <br>with code."</h4>
+<h4 align="center">"Learning, coding, and growing—one commit at a time."</h4>
 
 ###
 
