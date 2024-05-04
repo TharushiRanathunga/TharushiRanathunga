@@ -68,15 +68,6 @@
 
 ###
 
-<style>
-  body {
-    background-color: black;
-  }
-</style>
-
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/TharushiRanathunga/count.svg?"  />
 </div>
